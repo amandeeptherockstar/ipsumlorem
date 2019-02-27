@@ -1,0 +1,21 @@
+{
+  "name": "lorem_ipsum",
+  "version": "1.0.0",
+  "description": "A package for generating lorem ipsum text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amandeeptherockstar/lorem_ipsum"
+  },
+  "keywords": [
+    "lorem",
+    "lorem_ipsum",
+    "text_generator",
+    "lightweight",
+    "placeholder",
+    "dummy",
+    "random_text_generator"
+  ],
+  "author": "Amandeep Kochhar",
+  "license": "ISC"
+}
