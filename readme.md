@@ -25,6 +25,7 @@ $ npm install ipsumlorem
 | Repo | README |
 | ------ | ------ |
 | Github | [https://github.com/amandeeptherockstar/ipsumlorem] |
+| Npm | [https://www.npmjs.com/package/ipsumlorem] |
 
 
 ### Load Module in Project
