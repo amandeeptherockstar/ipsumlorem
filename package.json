@@ -1,6 +1,6 @@
 {
   "name": "ipsumlorem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for generating lorem ipsum text",
   "main": "index.js",
   "repository": {
