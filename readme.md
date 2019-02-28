@@ -64,14 +64,14 @@ Module gives us two methods to use:
 ** startWithLoremIpsum: boolean = do the lorem ipsum text starts with actually lorem ipsum? Type of startWithLoremIpsum is boolean, Default value is true.
 
 ### Examples
-// getWords()
+getWords();
 const text = loremIpsum.getWords(10, true);
 Lorem ipsum dolor sit amet erat iaculis posuere, ullamcorper nunc.
 
 const text = loremIpsum.getWords(10, false);
 Commodo bibendum quam vestibulum, et vehicula semper mi vulputate fermentum.
 
-// getParagraphs()
+getParagraphs();
 const text = loremIpsum.getParagraphs(2, 10, 20, false);
 
 Dictumst dictumst a sit natoque malesuada praesent, platea eu amet pharetra eiusmod nam tortor risus urna do duis penatibus.
