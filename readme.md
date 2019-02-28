@@ -1,10 +1,8 @@
 # Lorem_Ipsum
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.twitter.com/amandeepkochhar)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Lorem_Ipsum is a light-weight, quick sample text generator for node.js or any Front End that uses JavaScript with ZERO dependency.
+Ipsum Lorem is a light-weight, quick sample text generator for node.js or any Front End that uses JavaScript with ZERO dependency.
 
   - Generate Words
   - Generate Paragraphs on the Go!
@@ -14,19 +12,19 @@ Lorem_Ipsum is a light-weight, quick sample text generator for node.js or any Fr
 
 ### Installation
 
-Lorem_Ipsum requires [Node.js](https://nodejs.org/) v6+ or A browser Support ES5 alteast to run.
+Ipsum Lorem requires [Node.js](https://nodejs.org/) v6+ or A browser Support ES5 alteast to run.
 
 Go to directory, install and start the server.
 
 ```sh
 $ cd text_generator
-$ npm install lorem_ipsum
+$ npm install ipsumlorem
 ```
 
 ### Github Repo:
 | Repo | README |
 | ------ | ------ |
-| Github | [https://github.com/amandeeptherockstar/lorem_ipsum] |
+| Github | [https://github.com/amandeeptherockstar/ipsumlorem] |
 
 
 ### Load Module in Project
@@ -35,7 +33,7 @@ Want to contribute? Great!
 
 Load the Module:
 ```sh
-const LoremIpsum = require('lorem_ipsum');
+const LoremIpsum = require('ipsumlorem');
 ```
 
 Create an Instance of LoremIpsum (uses Default Dictionary):
@@ -86,7 +84,7 @@ Pretium scelerisque ultricies a rutrum, quam amet iaculis phasellus duis, vestib
 License
 ----
 
-ISC
+MIT
 
 
 **Free Package, Hell Yeah!**
