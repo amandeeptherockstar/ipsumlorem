@@ -1,4 +1,4 @@
-# Lorem_Ipsum
+# Ipsum Lorem
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.twitter.com/amandeepkochhar)
 
